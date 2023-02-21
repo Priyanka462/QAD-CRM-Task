@@ -1,0 +1,9 @@
+{
+    "SearchIcon": {
+        "screenshot": ".images\\searchicon-screenshot.png",
+        "source": "https://gl034jaerpc496.qad.com/clouderp/#/view/webshell/home",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//button[@id='webshellMenu_menuSearchButton']/span"
+    }
+}

@@ -1,0 +1,5 @@
+<config>
+<inputurl>https://gl034jaerpc496.qad.com/clouderp/resources/login.jsp#/view/webshell/home/</inputurl>
+<inputExcel>C:\Users\priyanka.madugula\Documents\visual studio code\QAD task\QAD input.xlsx</inputExcel>
+<outputExcel>C:\Users\priyanka.madugula\Documents\visual studio code\QAD task\QAD output.xlsx</outputExcel>
+</config>
